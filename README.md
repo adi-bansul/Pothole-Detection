@@ -19,6 +19,7 @@ A machine learning-based web application to detect potholes from images, built w
 ## 📂 Project Structure
 
 Pothole-Detection/
+
 │── app.py             # Main Streamlit app  
 │── model/             # Trained model files  
 │── requirements.txt   # Python dependencies  
